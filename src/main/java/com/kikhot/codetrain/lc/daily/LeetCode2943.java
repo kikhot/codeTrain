@@ -23,6 +23,7 @@ public class LeetCode2943 {
 				count = 1;
 			}
 		}
+		
 		return resMax;
 	}
 
